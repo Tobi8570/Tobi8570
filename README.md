@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tobias</h1>
-<h3 align="center">A passionate developer from Denmark</h3>
+<h3 align="center">A passionate student developer from Denmark, currently studing Data & kommunikation (Speciale i programmering) at TEC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobi8570&label=Profile%20views&color=0e75b6&style=flat" alt="tobi8570" /> </p>
 
